@@ -5,9 +5,9 @@
 ---
 ## How to run  
 - Install extension in your browser [Violentmonkey](https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag?hl=be)
-- In order for Сrossfi to open in a browser, install [this script](https://github.com/mudachyo/Сrossfi/raw/main/crossfi-web.user.js)
-- To install **autoclicker** install [this script](https://github.com/mudachyo/Сrossfi/raw/main/crossfi-autoclicker.user.js)
-- Open [Bot Сrossfi](https://web.telegram.org/k/#?tgaddr=tg%3A%2F%2Fresolve%3Fdomain%3Dxficonsolebot%26start%3D2475526) and run the game
+- In order for Crossfi to open in a browser, install [this script](https://github.com/mudachyo/Crossfi/raw/main/crossfi-web.user.js)
+- To install **autoclicker** install [this script](https://github.com/mudachyo/Crossfi/raw/main/crossfi-autoclicker.user.js)
+- Open [Bot Crossfi](https://web.telegram.org/k/#?tgaddr=tg%3A%2F%2Fresolve%3Fdomain%3Dxficonsolebot%26start%3D2475526) and run the game
   
 - ![Result](result.gif)
 
@@ -29,7 +29,7 @@
 >
 > - [Gemz + Autoclicker](https://github.com/mudachyo/Gemz)
 >
-> - [Сrossfi + Autoclicker](https://github.com/mudachyo/Сrossfi)
+> - [Crossfi + Autoclicker](https://github.com/mudachyo/Crossfi)
 >
 > - [BUMP](https://github.com/mudachyo/BUMP)
 >

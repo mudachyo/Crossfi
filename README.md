@@ -5,8 +5,8 @@
 ---
 ## Как запустить  
 - Установить в свой браузер расширение [Violentmonkey](https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag?hl=be)
-- Для того, чтобы Сrossfi открывался в браузере установите [этот скрипт](https://github.com/mudachyo/Сrossfi/raw/main/crossfi-web.user.js)
-- Для установки **автокликера** установите [этот скрипт](https://github.com/mudachyo/Сrossfi/raw/main/crossfi-autoclicker.user.js)
+- Для того, чтобы Сrossfi открывался в браузере установите [этот скрипт](https://github.com/mudachyo/Crossfi/raw/main/crossfi-web.user.js)
+- Для установки **автокликера** установите [этот скрипт](https://github.com/mudachyo/Crossfi/raw/main/crossfi-autoclicker.user.js)
 - Открыть [Бота Сrossfi](https://web.telegram.org/k/#?tgaddr=tg%3A%2F%2Fresolve%3Fdomain%3Dxficonsolebot%26start%3D2475526) и запустить игру
 
 - ![Результат](result.gif)
@@ -29,7 +29,7 @@
 >
 > - [Gemz + Autoclicker](https://github.com/mudachyo/Gemz)
 >
-> - [Сrossfi + Autoclicker](https://github.com/mudachyo/Сrossfi)
+> - [Сrossfi + Autoclicker](https://github.com/mudachyo/Crossfi)
 >
 > - [BUMP](https://github.com/mudachyo/BUMP)
 >
