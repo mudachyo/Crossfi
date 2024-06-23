@@ -29,7 +29,7 @@
 >
 > - [Gemz + Autoclicker](https://github.com/mudachyo/Gemz)
 >
-> - [Crossfi + Autoclicker](https://github.com/mudachyo/Crossfi)
+> - [Сrossfi + Autoclicker](https://github.com/mudachyo/Crossfi)
 >
 > - [BUMP](https://github.com/mudachyo/BUMP)
 >
