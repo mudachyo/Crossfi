@@ -5,9 +5,9 @@
 // @match        *://bot.crossfi.org/*
 // @icon         https://s2.coinmarketcap.com/static/img/coins/64x64/26202.png
 // @grant        none
-// @downloadURL  https://github.com/mudachyo/Сrossfi/raw/main/crossfi-autoclicker.user.js
-// @updateURL    https://github.com/mudachyo/Сrossfi/raw/main/crossfi-autoclicker.user.js
-// @homepage     https://github.com/mudachyo/Сrossfi
+// @downloadURL  https://github.com/mudachyo/Crossfi/raw/main/crossfi-autoclicker.user.js
+// @updateURL    https://github.com/mudachyo/Crossfi/raw/main/crossfi-autoclicker.user.js
+// @homepage     https://github.com/mudachyo/Crossfi
 // ==/UserScript==
 
 (function() {
